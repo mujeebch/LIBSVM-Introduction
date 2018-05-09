@@ -1,0 +1,2 @@
+# LIBSVM-Introduction
+LIBSVM Introduction: LibSVM is a Python library which is really easy to use. A detailed paper written by authors of that library can be found at: https://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf. That guide is quite detailed and nicely written. Following is a small example to learn how to use LIBSVM with data provided here as well as the programs provided. All the processes from data cleaning to feature extraction is explained with provided python programs.
